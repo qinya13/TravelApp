@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401649278381",
+    "project_id": "travelapp-71937",
+    "storage_bucket": "travelapp-71937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401649278381:android:30896ba99e59245b0ed524",
+        "android_client_info": {
+          "package_name": "com.narong.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGrTkgp7USMkCWdYIncp4rOf1u3_GpDHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
